@@ -10,7 +10,7 @@ import Paper from '@mui/material/Paper';
 const TAX_RATE = 0.07;
 
 function ccyFormat(num) {
-    console.log(num);
+    //console.log(num);
   return `${num.toFixed(2)}`;
 }
 
